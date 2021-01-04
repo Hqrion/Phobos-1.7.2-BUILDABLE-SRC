@@ -1,4 +1,4 @@
-# Phobos 1.7.2 Clean Buildable Source (all phobos boys are literally giving me so much attention) "ur 12" xdd so cool comebacks omg get a life you no lifers 
+# OUTDATED USE GOPRO's https://github.com/Gopro336/Phobos_1.7.2-BUILDABLE-SRC-Non-Chinese-
 
 This source has been checked by two people, myself and a friend. My friend did not find anything as he briefly went through the files. I have scanned and gone through every file and lib to make sure it's clean. This is **safe to use.** 
 
